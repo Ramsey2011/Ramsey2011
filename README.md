@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!--My name is Shawn Ramsey.
 **Ramsey2011/Ramsey2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
