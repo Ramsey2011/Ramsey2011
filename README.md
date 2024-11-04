@@ -2,7 +2,7 @@
 
 <!--My name is Shawn Ramsey.
 **Ramsey2011/Ramsey2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Adding new text to file to test cloning
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
